@@ -32,9 +32,7 @@ The objective of this project was to build a **cost-effective**, **energy-effici
 
 ## 🖥️ NAS Hardware
 
-<a href="images/inside_nas.jpg">
-<img src="images/inside_nas.jpg" width="900">
-</a>
+<img width="4032" height="2268" alt="Inside Nas" src="https://github.com/user-attachments/assets/1692d9cb-5c7f-4094-9e94-d874a3f0604d" />
 
 Internal hardware layout of the NAS showing the motherboard, CPU, storage drives, SATA connections, and power distribution.
 
@@ -42,9 +40,8 @@ Internal hardware layout of the NAS showing the motherboard, CPU, storage drives
 
 ## 💽 Storage Drives
 
-<a href="images/hdd_mount.jpg">
-<img src="images/hdd_mount.jpg" width="700">
-</a>
+<img width="2268" height="4032" alt="HDD" src="https://github.com/user-attachments/assets/6c0c2289-b106-4baf-a4b3-9852d741ce93" />
+
 
 Dual SATA storage drives installed inside the Dell chassis.
 
@@ -52,9 +49,8 @@ Dual SATA storage drives installed inside the Dell chassis.
 
 ## 🌐 Proxmox VE Dashboard
 
-<a href="images/proxmox_dashboard.jpg">
-<img src="images/proxmox_dashboard.jpg" width="900">
-</a>
+<img width="4032" height="2268" alt="proxmox" src="https://github.com/user-attachments/assets/b5b4a889-8c40-44a3-9038-93e3c50a1054" />
+
 
 Web-based Proxmox dashboard used for virtualization and server management.
 
@@ -62,9 +58,8 @@ Web-based Proxmox dashboard used for virtualization and server management.
 
 ## 📈 Virtual Machine Monitoring
 
-<a href="images/vm_dashboard.jpg">
-<img src="images/vm_dashboard.jpg" width="900">
-</a>
+<img width="4032" height="2268" alt="Dashboard" src="https://github.com/user-attachments/assets/d1e2cedd-de58-4fd3-8d6d-491ba7a4e556" />
+
 
 Real-time monitoring of CPU, memory, storage, and network usage.
 
@@ -72,9 +67,8 @@ Real-time monitoring of CPU, memory, storage, and network usage.
 
 ## 🚀 SSD Benchmark
 
-<a href="images/benchmark.png">
-<img src="images/benchmark.png" width="700">
-</a>
+<img width="601" height="372" alt="Benchmark" src="https://github.com/user-attachments/assets/b3e2ec14-42fe-443d-9a85-7526e67c0dc3" />
+
 
 Storage benchmarking performed to evaluate SSD performance before deployment.
 
